@@ -2,6 +2,8 @@
 
 Esta é uma implementação do clássico jogo do Tetris em JavaScript. O jogo utiliza uma grade 10x20 e apresenta cinco formas diferentes de Tetromino: L, Z, T, O e I. O jogo começa com uma forma de Tetromino aleatória que cai pela grade. O jogador pode mover a forma para a esquerda ou para a direita, girá-la ou acelerar a queda. Quando uma linha é completamente preenchida com formas de Tetromino, ela é eliminada e o jogador ganha pontos. O jogo termina quando as formas de Tetromino atingem o topo da grade.
 
+![](https://github.com/lfanjos/tetris-js/blob/master/tetris.gif)
+
 ## Como Jogar
 
 Para iniciar o jogo, clique no botão "Iniciar/Pausar". O jogo começará com uma forma de Tetromino aleatória caindo pela grade. O jogador pode mover a forma para a esquerda ou para a direita usando as setas esquerda e direita do teclado. A seta para cima pode ser usada para girar a forma. A seta para baixo pode ser usada para acelerar a queda da forma. Quando uma linha é completamente preenchida com formas de Tetromino, ela é eliminada e o jogador ganha pontos. O jogo termina quando as formas de Tetromino atingem o topo da grade.
